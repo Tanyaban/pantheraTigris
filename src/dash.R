@@ -33,7 +33,6 @@ for(i in 2:29)
         Record[i][j]=0
         return(Record)
       }
-      
     }
   }
   }
